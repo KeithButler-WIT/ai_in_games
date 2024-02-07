@@ -1,0 +1,188 @@
+\begin{thebibliography}{21}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Alaoui~M'Darhri et~al.(2019)Alaoui~M'Darhri, Baillet, Bourineau,
+  Calantropio, Carpentiero, Chayani, de~Luca, Dudek, Dutailly, Gautier, Grilli,
+  Grimaud, Hoffmann, Joffres, Jon{\v c}i{\'c}, Jordan, Kimball, Manuel,
+  McInerney, Munoz~Pandiella, N{\'e}roulidis, Nocerino, Pamart, Papadopoulos,
+  Potenziani, Saubestre, Scopigno, Seillier, Tournon-Valiente, Trognitz,
+  Vallet, and Zuanni}]{alaou:2019}
+Alaoui~M'Darhri, A., Baillet, V., Bourineau, B., Calantropio, A., Carpentiero,
+  G., Chayani, M., de~Luca, L., Dudek, I., Dutailly, B., Gautier, H., Grilli,
+  E., Grimaud, V., Hoffmann, C., Joffres, A., Jon{\v c}i{\'c}, N., Jordan, M.,
+  Kimball, J.J., Manuel, A., McInerney, P., Munoz~Pandiella, I.,
+  N{\'e}roulidis, A., Nocerino, E., Pamart, A., Papadopoulos, C., Potenziani,
+  M., Saubestre, E., Scopigno, R., Seillier, D., Tournon-Valiente, S.,
+  Trognitz, M., Vallet, J.M., and Zuanni, C. (2019).
+\newblock {Share - Publish - Store - Preserve. Methodologies, Tools and
+  Challenges for 3D Use in Social Sciences and Humanities}.
+\newblock {Share - Publish - Store - Preserve. Methodologies, Tools and
+  Challenges for 3D Use in Social Sciences and Humanities}.
+\newblock \urlprefix\url{https://hal.archives-ouvertes.fr/hal-02155055}.
+
+\bibitem[{Bedford(2017)}]{HistoricEngland}
+Bedford, J. (2017).
+\newblock \emph{Photogrammetric Applications for Cultural Heritage. Guidance
+  for Good Practice.}
+\newblock English Heritage.
+
+\bibitem[{Boutsi et~al.(2019)Boutsi, Ioannidis, and
+  Soile}]{isprs-archives-XLII-2-W9-173-2019}
+Boutsi, A.M., Ioannidis, C., and Soile, S. (2019).
+\newblock Interactive oonline visualization of complex 3d geometries.
+\newblock \emph{The International Archives of the Photogrammetry, Remote
+  Sensing and Spatial Information Sciences}, XLII-2/W9, 173--180.
+\newblock
+  \urlprefix\url{https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W9/173/2019/}.
+
+\bibitem[{C. et~al.(2010)C., S., and S.}]{Con2010}
+C., C., S., G., and S., S. (2010).
+\newblock Not just another portal, not just another digital library: a portrait
+  of europeana as an application program interface.
+\newblock \emph{IFLA journal}, 36, 61–69.
+\newblock \doi{10.1177/0340035209360764}.
+
+\bibitem[{CARARE(2022)}]{Carare}
+CARARE (2022).
+\newblock Introduction to carare aggregation services.
+\newblock
+  \urlprefix\url{https://pro.carare.eu/en/introduction-carare-aggregation-services/}.
+
+\bibitem[{Carlisle et~al.(2014)Carlisle, Avramides, Dalgity, and
+  Myers}]{Carlisle_01}
+Carlisle, P., Avramides, Y., Dalgity, A., and Myers, D. (2014).
+\newblock The arches heritage inventory and management system: a
+  standards-based approach to the management of cultural heritage information.
+\newblock \emph{CIDOC conference: access and understanding–networking in the
+  digital era}, 6--11.
+\newblock
+  \urlprefix\url{https://efaidnbmnnnibpcajpcglclefindmkaj/https://www.archesproject.org/wp-content/uploads/2014/10/I-1_Carlisle_Dalgity_et-al_paper.pdf}.
+
+\bibitem[{CDWA(2022)}]{CDWA}
+CDWA (2022).
+\newblock Categories for the description of works of art ({CDWA}).
+\newblock
+  \urlprefix\url{www.getty.edu/research/publications/electronic_publications/cdwa/definitions.pdf}.
+
+\bibitem[{Dutailly et~al.(2018)Dutailly, Eus{\`e}be, Grimaud, Lef{\`e}vre,
+  Quantin, Tournon-Valiente, Chayani, and Granier}]{dutailly:hal-01926434}
+Dutailly, B., Eus{\`e}be, S., Grimaud, V., Lef{\`e}vre, N., Quantin, M.,
+  Tournon-Valiente, S., Chayani, M., and Granier, X. (2018).
+\newblock {Life cycle of 3d data for cultural heritage}.
+\newblock {Visual Heritage 2018}.
+\newblock \urlprefix\url{https://hal.archives-ouvertes.fr/hal-01926434}.
+\newblock Poster.
+
+\bibitem[{European Commission. Directorate General~for Communications~Networks
+  and Technology(2022)}]{european2022study}
+European Commission. Directorate General~for Communications~Networks, C. and
+  Technology (2022).
+\newblock \emph{Study on Quality in 3D Digitisation of Tangible Cultural
+  Heritage: Mapping Parameters, Formats, Standards, Benchmarks, Methodologies,
+  and Guidelines : Final Study Report}.
+\newblock Publications Office of the European Union.
+\newblock \urlprefix\url{https://books.google.ie/books?id=SLAzzwEACAAJ}.
+
+\bibitem[{Garc{\'i}a(2018)}]{Garca2018}
+Garc{\'i}a, R.L.A. (2018).
+\newblock When documenting doesn’t cut it: Opportunities and alternatives to
+  intangible conservation.
+
+\bibitem[{Getty(2022)}]{Crosswalk}
+Getty (2022).
+\newblock Categories for the description of works of art ({CDWA}).
+\newblock
+  \urlprefix\url{https://www.getty.edu/research/publications/electronic_publications/intrometadata/crosswalks.html}.
+
+\bibitem[{Mezzadri(2021)}]{heritage4030142}
+Mezzadri, P. (2021).
+\newblock Contemporary murals in the street and urban art field: Critical
+  reflections between preventive conservation and restoration of public art.
+\newblock \emph{Heritage}, 4(3), 2515--2525.
+\newblock \doi{10.3390/heritage4030142}.
+\newblock \urlprefix\url{https://www.mdpi.com/2571-9408/4/3/142}.
+
+\bibitem[{Morris and Rodriguez-Amat(2022)}]{Morris:2022}
+Morris, P.I. and Rodriguez-Amat, J.R. (2022).
+\newblock Collaborative design in kinetic performance: Safeguarding the
+  uilleann pipes through inertial motion capture.
+\newblock \emph{Multimodal Technologies and Interaction}, 6(11).
+\newblock \doi{10.3390/mti6110097}.
+\newblock \urlprefix\url{https://www.mdpi.com/2414-4088/6/11/97}.
+
+\bibitem[{Myers et~al.(2021)Myers, Dalgity, and Avramides}]{Myers:2016}
+Myers, D., Dalgity, A., and Avramides, I. (2021).
+\newblock The arches heritage inventory and management system: a platform for
+  the heritage field.
+\newblock \emph{Journal of Cultural Heritage Management and Sustainable
+  Development}, 6(2).
+
+\bibitem[{Nocerino et~al.(2016)Nocerino, Menna, Remondino, Beraldin, Cournoyer,
+  and Reain}]{isprs-archives-XLI-B5-99-2016}
+Nocerino, E., Menna, F., Remondino, F., Beraldin, J.A., Cournoyer, L., and
+  Reain, G. (2016).
+\newblock Experiments on calibrating tilt-shift lenses for close-range
+  photogrammetry.
+\newblock \emph{The International Archives of the Photogrammetry, Remote
+  Sensing and Spatial Information Sciences}, XLI-B5, 99--105.
+\newblock \doi{10.5194/isprs-archives-XLI-B5-99-2016}.
+
+\bibitem[{Nomeikaite(2017)}]{Nomeikaite_2017}
+Nomeikaite, L. (2017).
+\newblock Street art, heritage and embodiment.
+\newblock \emph{SAUC - Street Art and Urban Creativity}, 3(1).
+\newblock \doi{10.25765/sauc.v3i1.62}.
+\newblock
+  \urlprefix\url{https://journals.ap2.pt/index.php/sauc/article/view/62}.
+
+\bibitem[{O'Neill and Stapleton(2022)}]{ON2022}
+O'Neill, B. and Stapleton, L. (2022).
+\newblock Digital cultural heritage standards: from silo to semantic web.
+\newblock \emph{AI {\&} SOCIETY}, 37(3), 891--903.
+\newblock \doi{10.1007/s00146-021-01371-1}.
+\newblock \urlprefix\url{https://doi.org/10.1007/s00146-021-01371-1}.
+
+\bibitem[{Remondino(2011)}]{rs3061104}
+Remondino, F. (2011).
+\newblock Heritage recording and 3d modeling with photogrammetry and 3d
+  scanning.
+\newblock \emph{Remote Sensing}, 3(6), 1104--1138.
+\newblock \doi{10.3390/rs3061104}.
+\newblock \urlprefix\url{https://www.mdpi.com/2072-4292/3/6/1104}.
+
+\bibitem[{Róg and Rzonca(2021)}]{Rog:2021}
+Róg, M. and Rzonca, A. (2021).
+\newblock The impact of photo overlap, the number of control points and the
+  method of camera calibration on the accuracy of 3d model reconstruction.
+\newblock \emph{Geomatics and Environmental Engineering}, 15, 67.
+\newblock \doi{10.7494/geom.2021.15.2.67}.
+
+\bibitem[{Stapleton et~al.(2020)Stapleton, O’Neill, and
+  McInerney}]{STAPLETON202017445}
+Stapleton, L., O’Neill, B., and McInerney, P. (2020).
+\newblock The enricher method for human machine symbiotics & smart data: A
+  socially responsible approach to the intelligent augmentation of knowledge
+  work.
+\newblock \emph{IFAC-PapersOnLine}, 53(2), 17445--17450.
+\newblock \doi{https://doi.org/10.1016/j.ifacol.2020.12.2115}.
+\newblock
+  \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S240589632032766X}.
+\newblock 21st IFAC World Congress.
+
+\bibitem[{Trombini et~al.(2021)Trombini, Ferraro, Manfredi, Petrillo, and
+  Dellepiane}]{Trombini:2021}
+Trombini, M., Ferraro, F., Manfredi, E., Petrillo, G., and Dellepiane, S.
+  (2021).
+\newblock Camera color correction for cultural heritage preservation based on
+  clustered data.
+\newblock \emph{Journal of Imaging}, 7(7).
+\newblock \doi{10.3390/jimaging7070115}.
+\newblock \urlprefix\url{https://www.mdpi.com/2313-433X/7/7/115}.
+
+\end{thebibliography}
